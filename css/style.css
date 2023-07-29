@@ -1,0 +1,139 @@
+/* first sec start */
+.sec1{
+    padding: 2rem;
+}
+
+.sec1parentdiv{
+    display: flex;
+}
+.sec1parentdiv > div{
+    width: 50%;
+    margin: auto 8%;
+    box-shadow: 5px 8px 18px #aaa;
+}
+h1{
+    font-size: 50px;
+    border-left: 5px solid red;
+    padding-left: 5px;
+
+}
+span{
+    color: coral;
+}
+button{
+    background-color: crimson;
+    padding: 15px 20px;
+    border-radius: 10px;
+
+}
+a{
+    color: rgb(193, 126, 0);
+    text-decoration: none;  
+}
+#firstimg{
+    width: 100%;
+}
+/* first section end */
+#heading{
+    font-size: 50px;
+    text-align: center;
+}
+.sec2parentdiv{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+  }
+  .sec2parentdiv > div{
+    width: 40%;
+    border-radius: 15px;
+    margin: 70px;
+    padding: 10px;
+    box-shadow: 5px 8px 18px #aaa;
+  }
+  
+.sec2firstchild{
+    background-color: blueviolet;
+}
+.illusimg{
+    width: 50%;
+}
+.illush2{
+    font-size: 40px;
+} 
+.sec2secondchild{
+    background-color: rgb(180, 11, 45);
+}
+.sec2thirdchild{
+    background-color: burlywood;
+}
+/* section second end */
+/* third section */
+.sec3parentdiv{
+    display: flex;
+    justify-content: center;
+}
+.sec3parentdiv >div{
+    align-items: center;
+    width: 100%;
+    padding: 10%
+}
+#coders{
+    width: 150%;
+}
+.sec3secondchild{
+    margin: 80px;
+}
+/* section third end */
+/* fourth section */
+.sec4parentdiv{
+    display: flex;
+    justify-content: center;
+}
+.sec4parentdiv >div{
+    align-items: center;
+    width: 100%;
+    padding: 12%
+}
+#mancoder{
+    width: 150%;
+}
+/* .sec4secondchild{
+    margin: 40px;
+} */
+.sec4firstchild{
+    margin: 80px 20px;
+}
+/* end section four */
+/* start fifth sec */
+#secheading{
+    font-size: 50px;
+    text-align: center;
+}
+.sec5parentdiv{
+    display: flex;
+    justify-content: center;
+}
+.sec5parentdiv >div{
+    align-items: center;
+    width: 100%;;
+    padding: 10%;
+}
+#lastpic{
+    width: 150%;
+}
+/* footer */
+footer{
+    background-color: black;
+    padding: 5px;
+
+}
+.footertxt{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+.footerh2{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
